@@ -1,9 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on HolaClient
-- 🌱 I’m currently learning null
-- 📫 Reach me at: [Discord](https://discord.gg/CvqRH9TrYK)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Mankind invented the atomic bomb, but no mouse would ever construct a mousetrap.
+<a href="https://app.daily.dev/crazymath072"><img src="https://api.daily.dev/devcards/v2/wzlAUic7L18INkgAfv03V.png?type=default&r=xir" width="356" alt="CR072's Dev Card"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=CR072&color=blue">
